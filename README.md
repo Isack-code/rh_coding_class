@@ -14,3 +14,5 @@ Host github.com
 6. add public key to github.com `cat ~/.ssh/id_ed25519.pub| pbcopy`
 7. add key to ssh-agent `ssh-add ~/.ssh/id_ed25519`
 8. optional, set origin `git remote set-origin git@github.com:...`
+
+### Thanks for visiting!
