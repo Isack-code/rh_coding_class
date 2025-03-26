@@ -1,5 +1,6 @@
 import argparse
 import random
+import time
 
 parser = argparse.ArgumentParser(
                     prog='Numbergame.py',
